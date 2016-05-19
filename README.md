@@ -1,6 +1,8 @@
 
 # CDD Generator v3.2.5
 
+###(Out of date! To be revised)
+
 ## Features
 
 A basic gulp build-kit, including our in-house scss starter template, based on the [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp)
